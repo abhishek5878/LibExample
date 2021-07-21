@@ -7,7 +7,7 @@ setup(
     url='https://github.com/abhishek5878/Lib_Example',
     author='Abhishek Vyas',
     author_email='abhishekvyas02032001@gmail.com',    
-    license='BSD 2-clause',
+    license='MIT License',
     install_requires=['pandas','numpy'],
 
     classifiers=[
