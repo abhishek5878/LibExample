@@ -1,14 +1,13 @@
 from setuptools import setup
 
 setup(
-    name='pyexample',
+    name='dupfunctions',
     version='0.1.0',    
     description='A example library',
     url='https://github.com/abhishek5878/Lib_Example',
     author='Abhishek Vyas',
     author_email='abhishekvyas02032001@gmail.com',    
     license='BSD 2-clause',
-    packages=['chalco'],
     install_requires=['pandas','numpy'],
 
     classifiers=[
