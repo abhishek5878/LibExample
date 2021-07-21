@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='dupfunctions',
+    name='duplicatefn',
     version='0.1.0',    
     description='A example library',
     url='https://github.com/abhishek5878/Lib_Example',
